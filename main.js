@@ -1,5 +1,1 @@
-const check = () => {
-    return 1;
-};
-
-c();
+() => { return 1; }
